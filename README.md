@@ -3,7 +3,7 @@
 ## Basic MapReduce Patterns
 1. Counting and Summing
 2. Collating:
-  <p class="tab">* Inverted Index</p>
+  <p>* Inverted Index</p>
 3. Filtering, Parsing, and Validation
 4. Distributed Task Execution
   * Performance Testing
