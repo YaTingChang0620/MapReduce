@@ -1,22 +1,23 @@
 <h1>MapReduce Patterns and Use Cases</h1>
 
 ## Basic MapReduce Patterns
-<ul>
- <li>Counting and Summing</li>
- <li>Collating: 
-  <ol> 
+
+#### Counting and Summing
+#### Collating
+<ol type="1"> 
    <li> Inverted Index</li>
-  </ol>
-<li>Filtering, Parsing, and Validation</li>
-<li>Distributed Task Execution</li>
- <ol type = "1"> 
+</ol>
+
+#### Filtering, Parsing, and Validation
+#### Distributed Task Execution
+<ol type = "1"> 
   <li>Performance Testing</li>
- </ol> 
-</li>Sorting</li>
- <ol type = "1"> 
+</ol> 
+#### Sorting
+<ol type = "1"> 
   <li>Secondary Sorting</li>
- </ol> 
-</ul>
+</ol> 
+
 ## Not-So-Basic MapReduce Patterns
 1. Iterative Message Passing (Graph Processing)
   * Availability Propagation Through The Tree of Categories
