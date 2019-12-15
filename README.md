@@ -9,11 +9,11 @@
   </ol>
 <li>Filtering, Parsing, and Validation</li>
 <li>Distributed Task Execution</li>
- <ol> 
+ <ol type = "1"> 
   <li>Performance Testing</li>
  </ol> 
 </li>Sorting</li>
- <ol> 
+ <ol type = "1"> 
   <li>Secondary Sorting</li>
  </ol> 
 </ul>
