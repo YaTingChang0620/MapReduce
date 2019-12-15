@@ -4,25 +4,35 @@
 
 #### Counting and Summing
 #### Collating
-<ol type="1"> 
+<ul> 
    <li> Inverted Index</li>
-</ol>
+</ul>
 
 #### Filtering, Parsing, and Validation
 #### Distributed Task Execution
-<ol type = "1"> 
+<ul> 
   <li>Performance Testing</li>
-</ol> 
+</ul> 
+
 #### Sorting
-<ol type = "1"> 
+<ul> 
   <li>Secondary Sorting</li>
-</ol> 
+</ul> 
 
 ## Not-So-Basic MapReduce Patterns
-1. Iterative Message Passing (Graph Processing)
-  * Availability Propagation Through The Tree of Categories
-  * Breadth-First Search
-2. Distinct Values (Unique Items Counting)
-  * Unique Users Counting
-3. Cross-Correlation
-  * Market Analysis (customers who buy this tend to also buy that)
+
+#### Iterative Message Passing (Graph Processing)
+<ul> 
+  <li>Availability Propagation Through The Tree of Categories</li>
+  <li>Breadth-First Search</li>
+</ul> 
+
+#### Distinct Values (Unique Items Counting)
+<ul> 
+  <li>Unique Users Counting</li>
+</ul> 
+
+#### Cross-Correlation
+<ul> 
+  <li>Market Analysis (customers who buy this tend to also buy that)</li>
+</ul> 
